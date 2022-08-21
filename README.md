@@ -1,2 +1,2 @@
-# Pyhon_for_Data_Analytics
-Pyhon_for_Data_Analytics
+# Python_for_Data_Analytics
+Python_for_Data_Analytics
